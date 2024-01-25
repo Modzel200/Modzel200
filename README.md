@@ -2,7 +2,9 @@
 - 🧐 Studying at: Bialystok University of Technology
 - 🧑‍💼 Currently at: X-Code
 - 🖥️🖱️ Technologies:
-  -test 
+100. First list item
+       - First nested list item
+         - Second nested list item
 <!--
 **Modzel200/Modzel200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,5 +1,9 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ...
+- 🧐 Studying at: Bialystok University of Technology
+- 🧑‍💼 Currently at: X-Code
+- 🖥️🖱️ Technologies:
+  -C#
+  -Angular
 <!--
 **Modzel200/Modzel200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

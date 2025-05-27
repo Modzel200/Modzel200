@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🧐 Studying at: Bialystok University of Technology
-- 🧑‍💼 Currently at: FellowMind
+- 🧑‍💼 Currently at: Visa
 - 🖥️🖱️ Technologies: C#, TS, .NET, Angular, EF Core
 <!--
 **Modzel200/Modzel200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
